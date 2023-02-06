@@ -8,7 +8,8 @@ public class Even_no {
 
 			if (i % 2 == 0) {               //50%2==0- reminder is 0==0-T
 				                             //51%2==0 = 1==0- F
-				System.out.println(i);      //50
+				System.out.println(i);  //50
+			System.out.println(i);
 			}
 		}
 }
